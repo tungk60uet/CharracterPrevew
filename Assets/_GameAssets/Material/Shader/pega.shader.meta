@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f719475b2cc433449ce1f89ac2fd1ce
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 19f7e4291997e3844b8e9857094ff142, type: 3}
+  - _cover_01_alp: {fileID: 2800000, guid: 4fc0c4f9376d8d74283eee0432f69da2, type: 3}
+  - _cover_02_alp: {fileID: 2800000, guid: 14c82b584a492d54990a960fcffb78b2, type: 3}
+  - _cover_03_alp: {fileID: 2800000, guid: 6ef96f9d79e1cf04bac21a8de061b4de, type: 3}
+  - _lights_alp: {fileID: 2800000, guid: 22304c76a14231f4288556d6a6a96a39, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
