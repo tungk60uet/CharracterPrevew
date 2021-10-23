@@ -517,7 +517,7 @@ MonoBehaviour:
   BloomSoftness: 0
   LUT: 0
   LutAmount: 1
-  SourceLut: {fileID: 2800000, guid: 3c656fbfe130ec048b1b5f4c0e4eee1e, type: 3}
+  SourceLut: {fileID: 0}
   ImageFiltering: 0
   Color: {r: 1, g: 1, b: 1, a: 1}
   Contrast: 0
